@@ -1,0 +1,5 @@
+C:\Users\Eric\Desktop\code_exercise\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\code_exercise\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.dll
+C:\Users\Eric\Desktop\code_exercise\C#\TireChangeRefactor\TireChangeRefactor\bin\Debug\TireChangeRefactor.pdb
+C:\Users\Eric\Desktop\code_exercise\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.dll
+C:\Users\Eric\Desktop\code_exercise\C#\TireChangeRefactor\TireChangeRefactor\obj\Debug\TireChangeRefactor.pdb
